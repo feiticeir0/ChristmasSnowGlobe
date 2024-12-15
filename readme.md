@@ -64,7 +64,7 @@ Select the one and see if outputs text.
 If you see text, that's the one. 
 
 ---
-#### Add the user to the group input
+#### :bowtie: Add the user to the group input
 ---
 You need to add your user (or the user running this program) to the *input* group. 
 ```bash
