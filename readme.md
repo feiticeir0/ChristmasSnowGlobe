@@ -87,8 +87,8 @@ They must be JPEG and have the resolution that you want to use (usually the same
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/snow_simulation.git
-cd snow_simulation
+git clone https://github.com/feiticeir0/ChristmasSnowGlobe
+cd ChristmasSnowGlobe
 ```
 
 ### Compile
