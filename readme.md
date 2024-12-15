@@ -105,13 +105,13 @@ The program requires three command-line arguments:
 
 Run the program as follows:
 ```bash
-./snow_simulation -w 1024 -h 768 -e /dev/input/event0
+./christmasSnowBall -w 1024 -h 768 -e /dev/input/event0
 ```
 
 ### :question: Display Help
 To see the help message:
 ```bash
-./snow_simulation --help
+./christmasSnowBall --help
 ```
 
 ---
