@@ -1,5 +1,5 @@
 # Snow Simulation with Dynamic Backgrounds and Touch Input :christmas_tree: :santa:
-![License](https://img.shields.io/badge/license-GPLv3-blue.svg) ![SDL2](https://img.shields.io/badge/dependency-SDL2-blue.svg) ![evdev](https://badgen.net/#badge/dependency/evdev)
+![License](https://img.shields.io/badge/license-GPLv3-blue.svg) ![SDL2](https://img.shields.io/badge/dependency-SDL2-blue.svg)
 
 ![Snow Simulation in Action](example_screenshot.png)
 
