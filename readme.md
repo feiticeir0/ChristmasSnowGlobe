@@ -1,8 +1,9 @@
-# Snow Simulation with Dynamic Backgrounds and Touch Input
+# Snow Simulation with Dynamic Backgrounds and Touch Input :christmas_tree: :santa:
+![License](https://img.shields.io/badge/license-GPLv3-blue.svg) ![SDL2](https://img.shields.io/badge/dependency-SDL2-blue.svg)
 
 ![Snow Simulation in Action](example_screenshot.png)
 
-## Overview
+## :guitar: Overview
 
 This program is a visually pleasing snow simulation that:
 - Dynamically displays falling snowflakes with wind effects.
@@ -13,15 +14,15 @@ It’s perfect for creating a holiday-themed display or experimenting with SDL2 
 
 ---
 
-## Features
+## :mega: Features
 
 - :snowflake: **Dynamic Snow Animation**: Snowflakes of varying sizes fall with adjustable wind effects.
-- ![Picture](https://img.icons8.com/emoji/48/000000/framed-picture.png) **Interactive Backgrounds**: Switch between backgrounds using a touchscreen device.
-- ![Touchscreen](https://img.icons8.com/emoji/48/000000/finger-pointing.png) **Touchscreen Integration**: Works seamlessly with Linux input devices (`/dev/input`).
+- :rice_scene: **Interactive Backgrounds**: Switch between backgrounds using a touchscreen device.
+- :phone: **Touchscreen Integration**: Works seamlessly with Linux input devices (`/dev/input`).
 
 ---
 
-## Prerequisites
+## :pushpin: Prerequisites
 
 Ensure the following libraries are installed on your system:
 
@@ -35,7 +36,7 @@ Install them on Debian-based systems using:
 sudo apt-get install libsdl2-dev libsdl2-image-dev libevdev-dev
 ```
 ---
-### Touch device
+### :wave: Touch device
 To find out your touch device, you can install evtest and use it to find the device
 ```bash
 sudo apt install evtest
@@ -71,7 +72,7 @@ You need to add your user (or the user running this program) to the *input* grou
 sudo usermod -aG input $USER
 
 ---
-### Images
+### :rice_scene: Images
 ---
 JPEG images must be placed in a images directory. 
 ```bash
@@ -82,7 +83,7 @@ Copy to the directory all the images you want to use.
 They must be JPEG and have the resolution that you want to use (usually the same as your monitor)
 
 ---
-## How to Compile and Run
+## :rocket: How to Compile and Run
 
 ### Clone the Repository
 ```bash
@@ -96,7 +97,7 @@ Use the included Makefile to compile the program:
 make
 ```
 
-### Run the Program
+### :bicyclist: Run the Program
 The program requires three command-line arguments:
 1. **Width** (`-w`): Screen width (e.g., `1024`).
 2. **Height** (`-h`): Screen height (e.g., `768`).
@@ -107,7 +108,7 @@ Run the program as follows:
 ./snow_simulation -w 1024 -h 768 -e /dev/input/event0
 ```
 
-### Display Help
+### :question: Display Help
 To see the help message:
 ```bash
 ./snow_simulation --help
@@ -115,7 +116,7 @@ To see the help message:
 
 ---
 
-## Background Images
+## :rice_scene: Background Images
 
 Background images must be placed in the `images` directory in the same location as the program. Only `.png` files are supported.
 
