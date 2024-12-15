@@ -15,7 +15,7 @@ It’s perfect for creating a holiday-themed display or experimenting with SDL2 
 
 ## Features
 
-- ![Snowflake](https://img.icons8.com/emoji/48/000000/snowflake.png) **Dynamic Snow Animation**: Snowflakes of varying sizes fall with adjustable wind effects.
+- :Snowflake:**Dynamic Snow Animation**: Snowflakes of varying sizes fall with adjustable wind effects.
 - ![Picture](https://img.icons8.com/emoji/48/000000/framed-picture.png) **Interactive Backgrounds**: Switch between backgrounds using a touchscreen device.
 - ![Touchscreen](https://img.icons8.com/emoji/48/000000/finger-pointing.png) **Touchscreen Integration**: Works seamlessly with Linux input devices (`/dev/input`).
 
