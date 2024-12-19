@@ -1,7 +1,7 @@
 # Interactive Winter Wonderland Simulation with Dynamic Backgrounds and Touch Input :christmas_tree: :santa:
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg) ![SDL2](https://img.shields.io/badge/dependency-SDL2-blue.svg)
 
-![Snow Simulation in Action](example_screenshot.png)
+![Snow Simulation in Action](https://hackster.imgix.net/uploads/attachments/1802123/christmaswonderland_l7ZQh8uRFL.gif?auto=compress&gifq=35&w=740&h=555&fit=max&fm=mp4)
 
 ## :guitar: Overview
 
@@ -82,6 +82,15 @@ Copy to the directory all the images you want to use.
 
 They must be JPEG and have the resolution that you want to use (usually the same as your monitor)
 
+Here are the ones included in the project
+#### Background 1
+![Background 1](images/christmas1.jpg)
+#### Background 2
+![Background 2](images/christmas2.jpg)
+#### Background 3
+![Background 3](images/christmas3.jpg)
+#### Background 4
+![Background 4](images/christmas4.jpg)
 ---
 ## :rocket: How to Compile and Run
 
