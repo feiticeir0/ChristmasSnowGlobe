@@ -68,8 +68,8 @@ If you see text, that's the one.
 ---
 You need to add your user (or the user running this program) to the *input* group. 
 ```bash
-```
 sudo usermod -aG input $USER
+```
 
 ---
 ### :rice_scene: Images
