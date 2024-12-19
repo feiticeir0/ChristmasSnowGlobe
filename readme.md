@@ -151,7 +151,6 @@ Replace the placeholder below with a screenshot of the program in action:
 ## To-Do / Future Enhancements
 
 - **Dynamic Background Scaling**: Automatically scale backgrounds to match screen resolution.
-- **Additional Input Modes**: Add mouse or keyboard interaction as a fallback.
 - **Audio Integration**: Play a festive tune during the simulation.
 - **More Effects**: Introduce twinkling lights or a dynamic weather system.
 
