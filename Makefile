@@ -4,8 +4,8 @@
 CC = gcc
 CFLAGS = -Wall -O2
 LIBS = -lSDL2 -lSDL2_image -levdev
-SRC = christmasSnowBall.c  # Updated to match your source file
-OUTPUT = christmasSnowBall
+SRC = christmasSnowGlobe.c  
+OUTPUT = christmasSnowGlobe
 
 # Default target: Build the program
 all: check_deps $(OUTPUT)
@@ -26,4 +26,4 @@ clean:
 
 # Run the program
 run: $(OUTPUT)
-	./$(OUTPUT) -w 1024 -h 768 -e /dev/input/event0
+	./$(OUTPUT) -w 720 -h 720 -e /dev/input/event0
