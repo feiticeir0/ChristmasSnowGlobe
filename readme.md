@@ -59,9 +59,9 @@ Available devices:
 /dev/input/event2:	vc4-hdmi HDMI Jack
 Select the device event number [0-2]: 
 ```
-Select the one and see if outputs text. 
+Select one, touch it and see if outputs text. 
 
-If you see text, that's the one. 
+If you see text, that's the one you should use.
 
 ---
 #### :bowtie: Add the user to the group input
