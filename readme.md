@@ -142,12 +142,12 @@ Background images must be placed in the `images` directory in the same location 
 
 Example directory structure:
 ```
-snow_simulation/
+ChristmasSnowGlobe/
 ├── images/
 │   ├── background1.png
 │   ├── background2.png
 │   └── background3.png
-└── snow_simulation
+└── ChristmasSnowGlobe
 ```
 
 ---
