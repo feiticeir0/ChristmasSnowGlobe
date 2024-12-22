@@ -162,7 +162,8 @@ ChristmasSnowGlobe/
 
 ## Demo
 
-![Snow Simulation in Action](video/christmaswonderland.git)
+<video src="video/christmaswonderland.mp4"/>
+
 
 ---
 
