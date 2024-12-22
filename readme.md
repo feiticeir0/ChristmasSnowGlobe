@@ -162,7 +162,7 @@ snow_simulation/
 
 ## Demo
 
-![Snow Simulation in Action]([video/christmaswonderland.mp4](https://github.com/feiticeir0/ChristmasSnowGlobe/raw/refs/heads/main/video/christmaswonderland.mp4))
+![Snow Simulation in Action]([video/christmaswonderland.mp4])
 
 ---
 
