@@ -160,9 +160,10 @@ ChristmasSnowGlobe/
 
 ---
 
+
 ## Demo
 
-<video src="https://github.com/user-attachments/assets/54a0dfa5-99a8-43f2-b2e7-154347105599" />
+<video src="https://github.com/user-attachments/assets/54a0dfa5-99a8-43f2-b2e7-154347105599" /></video>
 
 ---
 
@@ -184,5 +185,4 @@ This program is distributed under the GNU General Public License v3.0. See the [
 
 **Bruno Santos**  
 <feiticeir0@whatgeek.com.pt>
-
 
