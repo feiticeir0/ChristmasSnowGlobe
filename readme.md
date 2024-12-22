@@ -116,6 +116,17 @@ Run the program as follows:
 ```bash
 ./christmasSnowBall -w 1024 -h 768 -e /dev/input/event0
 ```
+### :hand: Touch Device
+Using Pimoroni's Hyperpixel Square 4.0, sometimes the touch device changes between reboots. So, it may not always be event0.
+
+I've created a script to find the correct touch device for the Pimoroni's Hyperpixel Touch 4.0. This way, when invoking the Christmas Snow Globe in a script (automatically, for example), I always have the right device.
+
+To use the script to find the device, the correct invocation is:
+
+```bash
+cd ChristmasSnowGlobe;./christmasSnowGlobe -h 720 -w 720 -e /dev/input/$(./findPimoronisTouchDevice.sh) &
+```
+The script findPimoronisTouchDevice.sh returns the correct event device for the touch screen.
 
 ### :question: Display Help
 To see the help message:
@@ -151,9 +162,7 @@ snow_simulation/
 
 ## Screenshot
 
-Replace the placeholder below with a screenshot of the program in action:
-
-![Snow Simulation in Action](example_screenshot.png)
+![Snow Simulation in Action](https://hackster.imgix.net/uploads/attachments/1802123/christmaswonderland_l7ZQh8uRFL.gif?auto=compress&gifq=35&w=1280&h=960&fit=max&fm=mp4)
 
 ---
 
