@@ -160,9 +160,9 @@ snow_simulation/
 
 ---
 
-## Screenshot
+## Demo
 
-![Snow Simulation in Action](https://hackster.imgix.net/uploads/attachments/1802123/christmaswonderland_l7ZQh8uRFL.gif?auto=compress&gifq=35&w=1280&h=960&fit=max&fm=mp4)
+![Snow Simulation in Action](video/christmaswonderland.mp4)
 
 ---
 
